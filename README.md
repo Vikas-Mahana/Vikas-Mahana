@@ -1,4 +1,4 @@
-<p class="text-center"> ![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/296514593/original/18e3fb92d3752de0764d3c102e8bf5946edef72a/develop-professional-web-apps-using-python-django.jpg)</p>
+![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/296514593/original/18e3fb92d3752de0764d3c102e8bf5946edef72a/develop-professional-web-apps-using-python-django.jpg)
 
 <h1 align="center">Hi 👋, I'm Vikas Mahana</h1>
 <h3 align="center">A passionate Python/Django developer.</h3>
