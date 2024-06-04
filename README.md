@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Python/Django developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png"/>
 
-- 👨‍🎓 I'm a Software Engineering
+- 👨‍🎓 I'm a Software Engineer.
 
 - 🔭 I’m currently working on **Impact Medical System**
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Python/Django**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Django Rest Framework, Fast API, Flask**
 
 - 📫 How to reach me **maharanavikas2@gmail.com**
 
