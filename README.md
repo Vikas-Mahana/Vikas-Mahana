@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vikas Mahana</h1>
 <h3 align="center">A passionate Python/Django developer.</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png"/>
+<img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png"/>
 
 - 👨‍🎓 I'm a Software Engineer.
 
